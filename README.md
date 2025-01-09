@@ -59,12 +59,11 @@ The Cost function for this problem is 
 - Traing the Data using different model like RandomForest,Logistics Regression, K-Nearest Neighbour using the One-DAL library of Intel's ONE API. 
 
 - Choose the trained model with best acuuracy and less cost function.
-
 ### Kafka workflow
-![Workflow](./flowchart/10_img.png)
+![Workflow](./flowchart/10 img.png)
 
 ### Model Training workflow
-![TrainingWorkflow](./flowchart/11_img.png)
+![TrainingWorkflow](./flowchart/11 img.png)
 
 
 ## Future Work
