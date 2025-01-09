@@ -59,12 +59,9 @@ The Cost function for this problem is 
 - Traing the Data using different model like RandomForest,Logistics Regression, K-Nearest Neighbour using the One-DAL library of Intel's ONE API. 
 
 - Choose the trained model with best acuuracy and less cost function.
-### Kafka workflow
-![Workflow](./flowchart/10 img.png)
-
+### workflow
+![Workflow](flowchart/10%20img.png)
 ### Model Training workflow
-![TrainingWorkflow](./flowchart/11 img.png)
-
-
+![TrainingWorkflow](flowchart/11%20img.png)
 ## Future Work
 - As of now, the data is not directly recorded from the APS sensors. This project can be taken further by obtaining the data directly from the sensor and keep monitoring the performance of the trained model.
