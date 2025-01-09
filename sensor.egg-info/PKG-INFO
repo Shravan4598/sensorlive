@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: sensor
+Version: 0.0.1
+Author: Shravan
+Author-email: shravankumarpandey825412@gmail.com
+Requires-Dist: pymongo
