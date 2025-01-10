@@ -1,7 +1,7 @@
 # sensorlive
 # Air Pressure System (APS) Sensor Fault Detection
 
-![Logo](https://www.intel.com/content/dam/develop/public/us/en/images/thumbnails/tool-thumbnail-beta-oneapi-logo.jpg)
+![APS Logo](flowchart/APS%20img.webp)
 
 ## Problem Statement
 The Air Pressure System (APS) is one of the important component of a heavy-duty vehicle that uses compressed air to force a piston to help for pressure to the brake pads. This is more sustainable and easy availability
@@ -15,7 +15,7 @@ This is a Binary Classification problem, in which the positive class indicates t
 - The attribute names of the data have been anonymized for proprietary reasons. It consists of both single numerical counters and histograms consisting of bins with different conditions.
 
 - In total there are 171 attributes and one target variable.
-- Link for Dataset: https://drive.google.com/file/d/1jHWPdnzAKZIVFI5_UxaG-A6yV6E5mVGf/view?usp=sharing
+- Link for Dataset: https://drive.google.com/file/d/1I9G8ucHmnp21HCoxN2uLvpg1Aei-dDTJ/view?usp=sharing
 
 ## Challenges with Dataset
 
